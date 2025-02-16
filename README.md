@@ -20,3 +20,6 @@
   - Spring Web (Build web, RESTful, applicantions using Spring MVC);
   - Spring Boot Actuator (Verificação de saúde da API);
 - Swagger Open API
+  
+  ![Swagger OpenAPI](https://github.com/user-attachments/assets/dfe22b4b-f998-478d-a155-747558b1831c)
+
